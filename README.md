@@ -101,10 +101,5 @@ every-day-helper
 - [Oleksandr Mamrenko](https://github.com/Mamrenko-Alex)
 - [Maryna Korbet](https://github.com/Maryna-Korbet)
 
-## Contact
 
-For questions or feedback, please contact: yarokrilka@gmail.com
 
-## License
-
-This project is licensed under the MIT License.
